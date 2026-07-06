@@ -1,4 +1,4 @@
-# 📊 Vrije Universiteit Amsterdam Insights Dashboard
+# 📊 Vrije Universiteit Amsterdam - University Performance Dashboard
 
 An interactive Power BI dashboard developed to analyze institutional performance of Vrije Universiteit Amsterdam across education, research, impact, staffing, and financial dimensions.
 
